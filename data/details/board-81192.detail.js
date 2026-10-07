@@ -1,0 +1,1 @@
+window.__DETAILS__=window.__DETAILS__||{};Object.assign(window.__DETAILS__,{});
